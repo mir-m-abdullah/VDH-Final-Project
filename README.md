@@ -38,9 +38,9 @@ The code requires the following R and Python packages:
 Contributors
 This project was completed by:
 
-Mir Abdullah
-Rubina Joshi
-Nahom Kifetew
-Connor Pepin
-Gaurav Shah
+- Mir Abdullah
+- Rubina Joshi
+- Nahom Kifetew
+- Connor Pepin
+- Gaurav Shah
 
