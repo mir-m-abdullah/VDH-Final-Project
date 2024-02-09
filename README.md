@@ -28,9 +28,9 @@ The main scripts for reproducing the analysis are:
 The code requires the following R and Python packages:
 
 * R
- - dplyr
- - glmnet
- - ggplot2
+  - dplyr
+  - glmnet
+  - ggplot2
    
 * Python
   - pandas
