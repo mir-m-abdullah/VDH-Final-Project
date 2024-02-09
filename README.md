@@ -43,4 +43,4 @@ Rubina Joshi
 Nahom Kifetew
 Connor Pepin
 Gaurav Shah
-Under the guidance of Professor Kim.
+
