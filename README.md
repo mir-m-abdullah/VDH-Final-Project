@@ -1,7 +1,7 @@
-#Factors Driving Public Health
+# Factors Driving Public Health
 This repository contains the code and report for our final project for the Data Science Practicum course at Virginia Tech.
 
-##Overview
+## Overview
 In collaboration with Sam Walmsley from the Virginia Department of Health (VDH), our project investigates the potential correlation between various factors related to restaurants, food availability, and public health outcomes in Virginia counties.
 
 Specifically, we aim to:
