@@ -37,7 +37,8 @@ The code requires the following R and Python packages:
   - scikit-learn
   - matplotlib
 
-Contributors
+## Contributors
+
 This project was completed by:
 
 * Mir Abdullah
